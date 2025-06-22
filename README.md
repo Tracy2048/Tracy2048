@@ -1,3 +1,4 @@
+<!--
 ## Hi, I'm Tran Thi Hang 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tracy2048&label=Profile%20views&color=0e75b6&style=flat" alt="luongminhanh" /> </p>
@@ -16,3 +17,4 @@
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tracy2048&show_icons=true&locale=en&layout=compact" alt="luongminhanh" />
 </div>
+-->
